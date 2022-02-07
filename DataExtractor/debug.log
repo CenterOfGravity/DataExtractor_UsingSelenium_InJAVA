@@ -1,0 +1,6 @@
+[0626/201900.707:ERROR:process_info.cc(359)] UncheckedAllocate
+[0626/201900.707:ERROR:process_info.cc(359)] UncheckedAllocate
+[0626/201927.829:ERROR:crash_report_database_win.cc(476)] failed to truncate: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+[0626/201931.414:ERROR:crash_report_database_win.cc(476)] failed to truncate: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+[0626/201933.657:ERROR:crash_report_database_win.cc(476)] failed to truncate: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+[0807/201655.349:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
